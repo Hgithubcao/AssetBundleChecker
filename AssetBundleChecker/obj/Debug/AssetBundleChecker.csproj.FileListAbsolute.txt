@@ -1,0 +1,12 @@
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\bin\Debug\AssetBundleChecker.exe.config
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\obj\Debug\AssetBundleChecker.csprojResolveAssemblyReference.cache
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\obj\Debug\AssetBundleChecker.AssetBundleChecker.resources
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\obj\Debug\AssetBundleChecker.Properties.Resources.resources
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\obj\Debug\AssetBundleChecker.csproj.GenerateResource.Cache
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\bin\Debug\AssetBundleChecker.exe
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\bin\Debug\AssetBundleChecker.pdb
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\obj\Debug\AssetBundleChecker.exe
+D:\UnityProjects\OrientalSkyServer\trunk\AssetBundleChecker\AssetBundleChecker\obj\Debug\AssetBundleChecker.pdb
+W:\OrientalSky\AssetBundleChecker\AssetBundleChecker\bin\Debug\AssetBundleChecker.exe.config
+W:\OrientalSky\AssetBundleChecker\AssetBundleChecker\obj\Debug\AssetBundleChecker.exe
+W:\OrientalSky\AssetBundleChecker\AssetBundleChecker\obj\Debug\AssetBundleChecker.pdb
